@@ -6,7 +6,7 @@ Tech standards to be followed while coding
 
 <h3>Commit Format</h3>
 
-<type>[optional scope]: <description>
+ <type> [optional scope]: <description>
 [optional body]
 [optional footer(s)]
 
